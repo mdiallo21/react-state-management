@@ -8,7 +8,7 @@ export const Content = ({permissions} : Props) => {
     }
     return permissions.includes('admin') ? (
         <p className="mt-4 text-l text-center">
-            Some improtant stuff that only an admin can do
+            Some important stuff that only an admin can do
         </p>
     ):(
         <p className="mt-4 text-l text-center">

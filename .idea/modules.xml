@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../props-drilling.iml" filepath="$PROJECT_DIR$/../props-drilling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-state-management.iml" filepath="$PROJECT_DIR$/../react-state-management.iml" />
     </modules>
   </component>
 </project>
